@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35201.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcalShifter", "IcalShifter.csproj", "{A2FB2DF5-70AA-4318-BE52-03C32ED4D941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FB2DF5-70AA-4318-BE52-03C32ED4D941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FB2DF5-70AA-4318-BE52-03C32ED4D941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FB2DF5-70AA-4318-BE52-03C32ED4D941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FB2DF5-70AA-4318-BE52-03C32ED4D941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0BC42F9-99DF-416C-9823-8A4D4F7231C7}
+	EndGlobalSection
+EndGlobal
